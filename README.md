@@ -7,4 +7,4 @@
 
 ### Social Media:
 
-[<img align="left" alt="Abyss | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" style="padding-right:1rem;"/>][linkedin]
+[<img align="left" alt="Ocelotl-Z | YouTube" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" style="padding-right:1rem;"/>][youtube]
