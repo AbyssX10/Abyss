@@ -13,6 +13,7 @@
 [linkedin]: https://www.linkedin.com/in/jose-luis-gonzalez-salinas/
 [facebook]: https://www.facebook.com/joseluis.salinas.3956
 
+<br>
 
 ### Languages:
 
