@@ -1,4 +1,4 @@
-# Hi, I'm Jose Luis Salinas 🇨🇴
+# Hi, I'm Jose Luis Salinas
 
 ## I'm a beginner but passionate programmer 🧡!
 
