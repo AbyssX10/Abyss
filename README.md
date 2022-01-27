@@ -1,9 +1,9 @@
-# Hi, I'm Abyss
+# Hi, I'm Jose Luis Salinas
 
 ## I'm a beginner but passionate programmer 🧡!
 
 - 🌱 I’m currently learning JavaScript/NodeJs/TypeScript
-- 🥅 Goals: Finish college
+- 🥅 Goals: Finish college :trollface:
 
 ### Social Media:
 
