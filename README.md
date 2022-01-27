@@ -7,4 +7,4 @@
 
 ### Social Media:
 
-[<img align="left" alt="Ocelotl-Z | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" style="padding-right:1rem;"/>][https://www.linkedin.com/in/jose-luis-gonzalez-salinas/]
+<img align="left" alt="Ocelotl-Z | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" style="padding-right:1rem;"/>
