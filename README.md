@@ -7,4 +7,4 @@
 
 ### Social Media:
 
-["Jose Luis Salinas"][https://www.linkedin.com/in/jose-luis-gonzalez-salinas/]
+[Jose Luis Salinas][https://www.linkedin.com/in/jose-luis-gonzalez-salinas/]
