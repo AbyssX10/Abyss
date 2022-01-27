@@ -1,9 +1,11 @@
+EN
+
 # Hi, I'm Jose Luis Salinas
 
 ## I'm a beginner but passionate programmer 🧡!
 
 - 🌱 I’m currently learning JavaScript/NodeJs/TypeScript
-- 🥅 Goals: Finish college :trollface:
+- 🥅 Goals: Finish college
 
 ### Social Media:
 
