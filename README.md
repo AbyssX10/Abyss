@@ -39,9 +39,15 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 [<img align="left" alt="GitHub" width="26px" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291667.png?token=exp=1647879529~hmac=fd7848b3ecd502c9a88e789049a49339" />][github]
 
+<br>
+
 ### Lo que estoy aprendiendo:
 
-<img align="left" alt="Blender" width="26px" src="" style="padding-rigth:1rem;" />
+<img align="left" alt="Blender" width="26px" src="https://th.bing.com/th/id/R.9740cda421976c05c2a7f460d369ff92?rik=d%2fxBzgM3YLF%2bgA&pid=ImgRaw&r=0" style="padding-rigth:1rem;" />
+
+<img align="left" alt="Substaince Painter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-substance-painter-2521749-2132641.png" style="padding-right:1rem;" />
+
+<img align="left" alt="Z-Brush" width="26px" src="https://cdn.onlinewebfonts.com/svg/img_437112.png" style="padding-right:1rem;" />
 
 [github]: https://github.com/AbyssX10
 [linkedin]: https://www.linkedin.com/in/jose-luis-gonzalez-salinas/
