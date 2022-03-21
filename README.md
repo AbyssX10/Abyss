@@ -2,16 +2,24 @@
 
 ## Soy desarrollador Web FullStack 🧡!
 
-### a
+Actualmente vivo en La Dorada, Caldas, Colombia :wedding:. Tengo 20 años, amante de la programación y todo sobre desarrollo de software, y estoy a punto de culminar un tecnólogo en Análisis y Desarrollo de Sistemas de Información con el SENA :computer:. Me considero experto en desarrollo web desde el FrontEnd hasta el BackEnd, además, de usar buenas prácticas al momento de programar :smiley:. Actualmente soy beneficiario de la Misión TIC 2022 :rocket:, programa dado por el Ministerio de las TIC (MinTic), donde se formará a más de cien mil (100.000) programadores, obteniendo un título como desarrollador web en nivel Junior.
 
-### Social Media:
+<br>
+
+Mis metas a largo plazo son: Culminar estudios universitarios, ser/crear la mejor compañía de desarrollo de Software de Colombia, y en lo posible, de Latinoamérica.
+
+<br>
+
+Mis metas a corto plazo son: Culminar mi tecnólogo y la formación con MinTic.
+
+### Redes Sociales:
 
 [<img align="left" alt="Abyss | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" style="padding-right:1rem;"/>][linkedin]
 [<img align="left" alt="Abyss | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="padding-right:1rem;"/>][facebook]
 
 <br>
 
-### Languages:
+### Lenguajes de Programación:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="padding-right:1rem;" />
 
