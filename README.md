@@ -3,6 +3,7 @@
 ## I'm a FullStack Web Developer 🧡!
 
 - 🌱 I’m currently learning JavaScript/NodeJs/TypeScript
+- [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 - 🥅 Goals: Finish college
 
 ### Social Media:
