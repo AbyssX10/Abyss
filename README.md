@@ -3,7 +3,6 @@
 ## I'm a FullStack Web Developer 🧡!
 
 - 🌱 I’m currently learning JavaScript/NodeJs/TypeScript
-- [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 - 🥅 Goals: Finish college
 
 ### Social Media:
@@ -28,6 +27,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="padding-right:1rem;" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="padding-right:1rem;" />
+
+<img align="left" alt="Unity" width="26px" src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png" style="padding-right:1rem;" />
 
 <img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/733/733553.png"/>
 
