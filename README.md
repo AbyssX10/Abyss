@@ -10,7 +10,7 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 ### Redes Sociales:
 
-[<img align="left" alt="Abyss | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1647879473~hmac=726fe0f4fcbad07ede4e6030ff322eb5" style="padding-right:1rem;"/>][linkedin]
+[<img align="left" alt="Abyss | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1648326467~hmac=8e74a3a68484c6191a1ebe61a0b5fe04" style="padding-right:1rem;"/>][linkedin]
 [<img align="left" alt="Abyss | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="padding-right:1rem;"/>][facebook]
 
 <br>
@@ -37,7 +37,7 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 <img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" style="padding-right:1rem;" />
 
-[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291667.png?token=exp=1647879529~hmac=fd7848b3ecd502c9a88e789049a49339" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][github]
 
 <br>
 
