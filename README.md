@@ -49,6 +49,8 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 <img align="left" alt="Z-Brush" width="26px" src="https://cdn.onlinewebfonts.com/svg/img_437112.png" style="padding-right:1rem;" />
 
+<img align="left" alt="React.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" style="padding-right:1rem;" />
+
 [github]: https://github.com/AbyssX10
 [linkedin]: https://www.linkedin.com/in/jose-luis-gonzalez-salinas/
 [facebook]: https://www.facebook.com/joseluis.salinas.3956
