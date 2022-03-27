@@ -2,7 +2,7 @@
 
 ## Soy desarrollador Web FullStack 🧡!
 
-Actualmente vivo en La Dorada, Caldas, Colombia :wedding:. Tengo 20 años, amante de la programación y todo sobre desarrollo de software, estoy a punto de culminar un Tecnólogo en Análisis y Desarrollo de Sistemas de Información con el SENA :computer:. Me considero experto en desarrollo web desde el FrontEnd hasta el BackEnd, además, de usar buenas prácticas al momento de programar :smiley:. Actualmente soy beneficiario de la Misión TIC 2022 :rocket:, programa dado por el Ministerio de las TIC (MinTic), donde se formará a más de cien mil (100.000) programadores, obteniendo un título como desarrollador web en nivel Junior.
+Actualmente vivo en La Dorada, Caldas, Colombia :wedding:. Tengo 20 años, amante de la programación y todo sobre desarrollo de software, estoy a punto de culminar un Tecnólogo en Análisis y Desarrollo de Sistemas de Información con el SENA :computer:. Me considero experto en desarrollo web desde el FrontEnd hasta el BackEnd, además, de usar buenas prácticas al momento de programar :smiley:. Actualmente soy beneficiario de la Misión TIC 2022 :rocket:, programa dado por el Ministerio de las TIC (MinTic), donde se formará a más de cien mil (100.000) programadores, obteniendo un título como desarrollador web de nivel Junior.
 
 <br>
 
