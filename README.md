@@ -10,8 +10,9 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 ### Redes Sociales:
 
-[<img align="left" alt="Abyss | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1648326467~hmac=8e74a3a68484c6191a1ebe61a0b5fe04" style="padding-right:1rem;"/>][linkedin]
-[<img align="left" alt="Abyss | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="padding-right:1rem;"/>][facebook]
+[<img align="left" alt="Jose Luis Salinas | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1648326467~hmac=8e74a3a68484c6191a1ebe61a0b5fe04" style="padding-right:1rem;" />][linkedin]
+[<img align="left" alt="Jose Luis Salinas | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="padding-right:1rem;" />][facebook]
+[<img align="left" alt="Jose Luis Salinas | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1648559277~hmac=ac697e1f391fe7c4a20f36107011ff58" style="padding-rigth:1rem;" />][twitter]
 
 <br>
 
@@ -56,3 +57,4 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 [github]: https://github.com/AbyssX10
 [linkedin]: https://www.linkedin.com/in/jose-luis-gonzalez-salinas/
 [facebook]: https://www.facebook.com/joseluis.salinas.3956
+[twitter]: https://twitter.com/JoseLuisDEV
