@@ -1,12 +1,17 @@
 # Hola, mi nombre es Jose Luis Salinas <img alig="right" alt="COL" width="22px" src="https://cdn-icons-png.flaticon.com/512/197/197575.png" style="padding-left:1rem;">
+<img src="https://komarev.com/ghpvc/?username=AbyssX10&style=flat-square&color=blue" alt=""/>
 
 ## Soy desarrollador Web FullStack 🧡!
 
 Actualmente vivo en La Dorada, Caldas, Colombia :wedding:. Tengo 20 años, amante de la programación y todo sobre desarrollo de software, estoy a punto de culminar un Tecnólogo en Análisis y Desarrollo de Sistemas de Información con el SENA :computer:. Me considero experto en desarrollo web desde el FrontEnd hasta el BackEnd, además, de usar buenas prácticas al momento de programar :smiley:. Actualmente soy beneficiario de la Misión TIC 2022 :rocket:, programa dado por el Ministerio de las TIC (MinTic), donde se formará a más de cien mil (100.000) programadores, obteniendo un título como desarrollador web de nivel Junior.
 
-<br>
-
 Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consistía en desarrollar una aplicación, subirla a la plataforma de huawei (Huawei Gallery) y participar por premios. Además, para el desarrollo de dicha aplicación debía implementarse servicios del ecosistema de Huawei. Participe como agente libre, donde pude desarrollar un videojuego con el motor de videojuegos Unity de Unity Technologies.
+
+### Mis Estadísticas
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbyssX10&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbyssX10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Redes Sociales:
 
