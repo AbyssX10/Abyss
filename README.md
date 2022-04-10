@@ -1,4 +1,4 @@
-# Hola, mi nombre es Jose Luis Salinas <img alig="right" alt="COL" width="22px" src="https://cdn-icons-png.flaticon.com/512/197/197575.png" style="padding-left:1rem;">
+# Hola, mi nombre es Jose Luis Salinas <img alig="right" alt="COL" width="22px" src="https://cdn-icons-png.flaticon.com/512/197/197575.png" style="padding-rigth:1rem;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 <img src="https://komarev.com/ghpvc/?username=AbyssX10&style=flat-square&color=blue" alt=""/>
 
 ## Soy desarrollador Web FullStack 🧡!
