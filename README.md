@@ -17,7 +17,7 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 [<img align="left" alt="Jose Luis Salinas | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/1051/1051282.png" style="padding-right:1rem;" />][linkedin]
 [<img align="left" alt="Jose Luis Salinas | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="padding-right:1rem;" />][facebook]
-[<img align="left" alt="Jose Luis Salinas | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1651213577~hmac=3f0d4ad8c6ec32be3778c5548f4fa1b8" style="padding-rigth:1rem;" />][twitter]
+[<img align="left" alt="Jose Luis Salinas | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3015/premium/3015802.png?token=exp=1651787435~hmac=1c47c5cf8fd99382eae15d899f7363a5" style="padding-rigth:1rem;" />][twitter]
 
 <br>
 
@@ -49,15 +49,11 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 ### Lo que estoy aprendiendo:
 
-<img align="left" alt="Blender" width="26px" src="https://th.bing.com/th/id/R.9740cda421976c05c2a7f460d369ff92?rik=d%2fxBzgM3YLF%2bgA&pid=ImgRaw&r=0" style="padding-rigth:1rem;" />
-
-<img align="left" alt="Substaince Painter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-substance-painter-2521749-2132641.png" style="padding-right:1rem;" />
-
-<img align="left" alt="Z-Brush" width="26px" src="https://cdn.onlinewebfonts.com/svg/img_437112.png" style="padding-right:1rem;" />
-
 <img align="left" alt="React.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" style="padding-right:1rem;" />
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" style="padding-left:1rem;" />
+
+<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-left:1rem;" />
 
 [github]: https://github.com/AbyssX10
 [linkedin]: https://www.linkedin.com/in/jose-luis-gonzalez-salinas/
