@@ -17,7 +17,7 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 [<img align="left" alt="Jose Luis Salinas | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/1051/1051282.png" style="padding-right:1rem;" />][linkedin]
 [<img align="left" alt="Jose Luis Salinas | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="padding-right:1rem;" />][facebook]
-[<img align="left" alt="Jose Luis Salinas | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3015/premium/3015802.png?token=exp=1651787435~hmac=1c47c5cf8fd99382eae15d899f7363a5" style="padding-rigth:1rem;" />][twitter]
+[<img align="left" alt="Jose Luis Salinas | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" style="padding-rigth:1rem;" />][twitter]
 
 <br>
 
