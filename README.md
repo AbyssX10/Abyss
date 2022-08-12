@@ -37,7 +37,7 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right:1rem;" />
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="padding-right:1rem;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" style="padding-right:1rem;" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="padding-right:1rem;" />
 
@@ -46,6 +46,8 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 <img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" style="padding-right:1rem;" />
 
 [<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][github]
+
+<img align="left" alt="C#" width="26px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1660333310~hmac=b3b8e8987fe7dedc22b01554f6814d3a" style="padding-right:1rem;" />
 
 <br>
 
@@ -57,7 +59,13 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-left:1rem;" />
 
-[github]: https://github.com/AbyssX10
+<img align="left" alt="Spring Boot" width="26px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" style="padding-left:1rem;" />
+
+<img align="left" alt="Thymeleaf" width="26px" src="https://www.thymeleaf.org/images/thymeleaf.png" style="padding-left:1rem;" />
+
+<img align="left" alt="PostgreSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" style="padding-left:1rem;" />
+
+[github]: https://github.com/jose-luis-salinas
 [linkedin]: https://www.linkedin.com/in/jose-luis-gonzalez-salinas/
 [facebook]: https://www.facebook.com/joseluis.salinas.3956
 [twitter]: https://twitter.com/JoseLuisDEV
