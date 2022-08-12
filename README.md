@@ -9,9 +9,9 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 ### Mis Estadísticas
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbyssX10&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jose-luis-salinas&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbyssX10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-luis-salinas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Redes Sociales:
 
