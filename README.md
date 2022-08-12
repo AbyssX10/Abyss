@@ -13,6 +13,8 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-luis-salinas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Jose Luis Salinas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-luis-salinas)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Redes Sociales:
 
 [<img align="left" alt="Jose Luis Salinas | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/1051/1051282.png" style="padding-right:1rem;" />][linkedin]
