@@ -1,0 +1,8 @@
+php-error.log
+libs/utils/*
+config/config.php
+.vscode
+ejemplo.mp4
+backup
+build
+sitemap.xml

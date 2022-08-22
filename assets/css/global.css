@@ -1,0 +1,108 @@
+@import url("../../assets/fonts/Rubik-Regular.ttf");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+button, input {
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+button, details {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+    color: black;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0.46875rem 2.1875rem rgb(0 0 0 / 5%), 0 0.9375rem 1.40625rem rgb(0 0 0 / 5%), 0 0.25rem 0.53125rem rgb(0 0 0 / 5%), 0 0.125rem 0.1875rem rgb(0 0 0 / 5%);
+}
+
+.grid-2, .grid-3 {
+    display: grid;
+}
+
+.grid-2 {
+    grid-template-columns: 47.5% 47.5%;
+    column-gap: 5%;
+}
+
+.grid-3 {
+    grid-template-columns: 30% 30% 30%;
+    column-gap: 5%;
+}
+
+.container {
+    width: 100%;
+    min-height: 650px;
+    height: auto;
+}
+
+.bg-image[data-image] {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.box, .box-10-1px, .box-10-2px, .box-10-3px, .box-10-4px, .box-10-5px {
+    width: 100%;
+}
+
+.box {
+    height: 100%;
+}
+
+.box-10-1px {
+    height: 10px;
+}
+
+.box-10-2px {
+    height: 20px;
+}
+
+.box-10-3px {
+    height: 30px;
+}
+
+.box-10-4px {
+    height: 40px;
+}
+
+.box-10-5px {
+    height: 50px;
+}
