@@ -23,9 +23,7 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 <br>
 
-### Lo que uso:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="padding-right:1rem;" />
+### Lenguajes que conozco:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="padding-right:1rem;" />
 
@@ -39,31 +37,23 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 <img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" style="padding-right:1rem;" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="padding-right:1rem;" />
-
-<img align="left" alt="Unity" width="26px" src="https://cdn-icons-png.flaticon.com/512/5969/5969347.png" style="padding-right:1rem;" />
-
-<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" style="padding-right:1rem;" />
-
 [<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][github]
-
-<img align="left" alt="C#" width="26px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1660333310~hmac=b3b8e8987fe7dedc22b01554f6814d3a" style="padding-right:1rem;" />
-
-<br>
-
-### Lo que estoy aprendiendo:
-
-<img align="left" alt="React.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" style="padding-right:1rem;" />
-
-<img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" style="padding-left:1rem;" />
-
-<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-left:1rem;" />
 
 <img align="left" alt="Spring Boot" width="26px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" style="padding-left:1rem;" />
 
 <img align="left" alt="Thymeleaf" width="26px" src="https://www.thymeleaf.org/images/thymeleaf.png" style="padding-left:1rem;" />
 
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" style="padding-left:1rem;" />
+
+<br>
+
+### Lenguajes que estoy aprendiendo:
+
+<img align="left" alt="React.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" style="padding-right:1rem;" />
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" style="padding-left:1rem;" />
+
+<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-left:1rem;" />
 
 <img align="left" alt="Laravel" width="26px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" style="padding-left:1rem;" />
 
