@@ -65,6 +65,8 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" style="padding-left:1rem;" />
 
+<img align="left" alt="Laravel" width="26px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" style="padding-left:1rem;" />
+
 [github]: https://github.com/jose-luis-salinas
 [linkedin]: https://www.linkedin.com/in/jose-luis-gonzalez-salinas/
 [facebook]: https://www.facebook.com/joseluis.salinas.3956
