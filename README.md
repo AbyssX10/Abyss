@@ -21,6 +21,8 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 [<img align="left" alt="Jose Luis Salinas | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="padding-right:1rem;" />][facebook]
 [<img align="left" alt="Jose Luis Salinas | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" style="padding-rigth:1rem;" />][twitter]
 
+[<img align="left" alt="Jose Luis Salinas | Peaku" width="22px" src="https://peaku.co/img/logo.png" style="padding-rigth:1rem;" />][peaku]
+
 <br>
 
 ### Lenguajes que conozco:
@@ -61,3 +63,4 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 [linkedin]: https://www.linkedin.com/in/jose-luis-gonzalez-salinas/
 [facebook]: https://www.facebook.com/joseluis.salinas.3956
 [twitter]: https://twitter.com/JoseLuisDEV
+[peaku]: https://peaku.co/es/cv/%2F135313-jose-luis-gonzalez-salinas
