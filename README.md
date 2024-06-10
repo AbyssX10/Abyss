@@ -17,13 +17,14 @@ Hola, soy José Luis Salinas, desarrollador full stack con experiencia en la cre
 
 Estoy abierto a nuevas oportunidades profesionales donde pueda aplicar mis habilidades y conocimientos para contribuir al desarrollo de proyectos innovadores y desafiantes. Si estás interesado en mi perfil, no dudes en contactarme.
 
+<!--
 ### Mis Estadísticas
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jose-luis-salinas&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-luis-salinas&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Jose Luis Salinas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-luis-salinas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jose Luis Salinas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-luis-salinas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### Redes Sociales:
 
