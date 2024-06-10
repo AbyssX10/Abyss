@@ -3,7 +3,7 @@
 
 ## 🚀 Desarrollador Full Stack | Experto en Tecnología para Soluciones Innovadoras 🌐
 
-Hola, soy José Luis Salinas, soy desarrollador full stack con experiencia en la creación de soluciones tecnológicas innovadores y escalables. Con un enfoque integral en el desarrollo web, tengo la capacidad de trabajar tanto en el frontend como en el backend, lo que me permite liderar proyectos desde la concepción hasta la implementación final.
+Hola, soy José Luis Salinas, desarrollador full stack con experiencia en la creación de soluciones tecnológicas innovadores y escalables. Con un enfoque integral en el desarrollo web, tengo la capacidad de trabajar tanto en el frontend como en el backend, lo que me permite liderar proyectos desde la concepción hasta la implementación final.
 
 💼 Experiencia Profesional:
 
