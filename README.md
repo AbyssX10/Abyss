@@ -1,11 +1,21 @@
 # Hola, mi nombre es Jose Luis Salinas <img alig="right" alt="COL" width="22px" src="https://cdn-icons-png.flaticon.com/512/197/197575.png" style="padding-rigth:1rem;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 <img src="https://komarev.com/ghpvc/?username=AbyssX10&style=flat-square&color=blue" alt=""/>
 
-## Soy desarrollador Web FullStack 🧡!
+## 🚀 Desarrollador Full Stack | Experto en Tecnología para Soluciones Innovadoras 🌐
 
-Actualmente vivo en La Dorada, Caldas, Colombia :wedding:. Tengo 20 años, amante de la programación y todo sobre desarrollo de software, estoy a punto de culminar un Tecnólogo en Análisis y Desarrollo de Sistemas de Información con el SENA :computer:. Me considero experto en desarrollo web desde el FrontEnd hasta el BackEnd, además, de usar buenas prácticas al momento de programar :smiley:. Actualmente soy beneficiario de la Misión TIC 2022 :rocket:, programa dado por el Ministerio de las TIC (MinTic), donde se formará a más de cien mil (100.000) programadores, obteniendo un título como desarrollador web de nivel Junior.
+Hola, soy José Luis Salinas, soy desarrollador full stack con experiencia en la creación de soluciones tecnológicas innovadores y escalables. Con un enfoque integral en el desarrollo web, tengo la capacidad de trabajar tanto en el frontend como en el backend, lo que me permite liderar proyectos desde la concepción hasta la implementación final.
 
-Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consistía en desarrollar una aplicación, subirla a la plataforma de huawei (Huawei Gallery) y participar por premios. Además, para el desarrollo de dicha aplicación debía implementarse servicios del ecosistema de Huawei. Participe como agente libre, donde pude desarrollar un videojuego con el motor de videojuegos Unity de Unity Technologies.
+💼 Experiencia Profesional:
+
+- Desarrollo Frontend: Dominio en HTML5, CSS3 y JavaScript, así como experiencia en frameworks modernos como React.js, ahora Next.js, y Vue.js, para crear interfaces de usuario dinámicas y atractivas.
+
+- Desarrollo Backend: Amplia experiencia en el diseño e implementación de APIs RESTful utilizando tecnologías como Node.js, Express y Spring Boot de Java, garantizando un backend robusto, eficiente y seguro.
+
+- Bases de Datos: Conocimientos sólidos en bases de datos relacionales (MySQL, PostgreSQL), así como experiencia en optimización de consultas y la gestión de grandes volúmenes de datos.
+
+🔍 Buscando Oportunidades:
+
+Estoy abierto a nuevas oportunidades profesionales donde pueda aplicar mis habilidades y conocimientos para contribuir al desarrollo de proyectos innovadores y desafiantes. Si estás interesado en mi perfil, no dudes en contactarme.
 
 ### Mis Estadísticas
 
@@ -20,8 +30,6 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 [<img align="left" alt="Jose Luis Salinas | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/1051/1051282.png" style="padding-right:1rem;" />][linkedin]
 [<img align="left" alt="Jose Luis Salinas | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="padding-right:1rem;" />][facebook]
 [<img align="left" alt="Jose Luis Salinas | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" style="padding-rigth:1rem;" />][twitter]
-
-[<img align="left" alt="Jose Luis Salinas | Peaku" width="22px" src="https://peaku.co/img/logo.png" style="padding-rigth:1rem;" />][peaku]
 
 <br>
 
@@ -63,4 +71,3 @@ Por otro lado, participe en eventos como el AppsUp de Huawei 2020 el que consist
 [linkedin]: https://www.linkedin.com/in/jose-luis-gonzalez-salinas/
 [facebook]: https://www.facebook.com/joseluis.salinas.3956
 [twitter]: https://twitter.com/JoseLuisDEV
-[peaku]: https://peaku.co/es/cv/%2F135313-jose-luis-gonzalez-salinas
