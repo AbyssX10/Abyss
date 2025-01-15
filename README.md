@@ -9,9 +9,9 @@ Hola, soy José Luis Salinas, desarrollador full stack con experiencia en la cre
 
 - Desarrollo Frontend: Dominio en HTML5, CSS3 y JavaScript, así como experiencia en frameworks modernos como React.js, ahora Next.js, y Vue.js, para crear interfaces de usuario dinámicas y atractivas.
 
-- Desarrollo Backend: Amplia experiencia en el diseño e implementación de APIs RESTful utilizando tecnologías como Node.js, Express y Spring Boot de Java, garantizando un backend robusto, eficiente y seguro.
+- Desarrollo Backend: Amplia experiencia en el diseño e implementación de APIs RESTful utilizando tecnologías como Nest.js y Spring Boot de Java, garantizando un backend robusto, eficiente y seguro.
 
-- Bases de Datos: Conocimientos sólidos en bases de datos relacionales (MySQL, PostgreSQL), así como experiencia en optimización de consultas y la gestión de grandes volúmenes de datos.
+- Bases de Datos: Conocimientos sólidos en bases de datos relacionales (MySQL, PostgreSQL) y no relaciones (MongoDB), así como experiencia en optimización de consultas y la gestión de grandes volúmenes de datos.
 
 🔍 Buscando Oportunidades:
 
